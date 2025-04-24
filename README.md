@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://github.com/user-attachments/assets/6e389ffe-d221-405c-8e46-919f1d3cc410" width="50" alt="IA Icon" />
+  <img src="https://github.com/user-attachments/assets/6e389ffe-d221-405c-8e46-919f1d3cc410" width="30" alt="IA Icon" />
   Inteligência Artificial e Visão Computacional em Imagens Médicas
 </h1>
 
