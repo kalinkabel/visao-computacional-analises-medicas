@@ -9,11 +9,8 @@
 <h3 align="left">Visão Geral</h3>
 <h3 align="left">👩‍⚕️ Projeto de visão computacional aplicada à saúde, com foco na análise automática de imagens médicas, utilizando inteligencia artificial para apoiar diagnósticos clínicos.
 </h3>
-As tecnologias de imagem médica estão cada vez mais integradas aos sistemas de visão computacional, especialmente no uso de imagens de raio-X.
 
-Os equipamentos modernos já geram imagens digitais desses exames, permitindo análises mais precisas e menos dependentes da interpretação subjetiva. Com isso, aplicações baseadas em inteligência artificial podem realizar pré-análises, auxiliando os profissionais de saúde ao sugerir ou confirmar possíveis diagnósticos.
+Este projeto tem como foco a aplicação de técnicas de visão computacional e inteligência artificial para análise de imagens médicas. Ele explora métodos de pré-processamento, extração de características, classificação, detecção e segmentação para a construção de modelos de inteligência artificial voltados à avaliação e apoio de diagnósticos clínicos automatizados.
 
-No campo dos diagnósticos por imagem com raio-X, a tuberculose é uma das doenças em que essa tecnologia é amplamente aplicada para definir o curso do tratamento.
-
-Este projeto tem como objetivo demonstrar as técnicas de processamento de imagem utilizadas em exames de raio-X para a construção de modelos de inteligência artificial voltados à avaliação e apoio diagnóstico.
+<h3 align="left">Objetivos</h3>
 
