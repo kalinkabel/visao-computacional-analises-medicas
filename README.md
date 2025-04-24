@@ -24,7 +24,7 @@ Este projeto tem como foco a aplicação de técnicas de visão computacional e 
 
 <h3 align="left">🛠️ Tecnologias Utilizadas</h3>
 
-- Python 3.10+
+- Python 3.11+
 
 - OpenCV
 
