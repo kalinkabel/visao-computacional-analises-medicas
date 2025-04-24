@@ -1,6 +1,6 @@
 <h1 align="center">
   <img src="https://github.com/user-attachments/assets/6e389ffe-d221-405c-8e46-919f1d3cc410" width="40" alt="IA Icon" />
-  Inteligência Artificial e Visão Computacional em Imagens Médicas
+  Análises de Imagens Médicas com Visão Computacional.
 </h1>
 
 <h3 align="center">👩‍⚕️ Projeto de visão computacional aplicada à saúde, com foco na análise automática de imagens médicas, utilizando inteligencia artificial para apoiar diagnósticos clínicos.
