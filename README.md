@@ -4,8 +4,6 @@
 </h1>
 
 
-🧠 🩺 📊 📁 💻 🔍 ✅ ❌ ⚙️ 🛠️ 📦 ✨ 👩‍⚕️
-
 <h3 align="left">Visão Geral</h3>
 <h3 align="left">👩‍⚕️ Projeto de visão computacional aplicada à saúde, com foco na análise automática de imagens médicas, utilizando inteligencia artificial para apoiar diagnósticos clínicos.
 </h3>
