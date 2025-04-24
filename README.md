@@ -1,9 +1,8 @@
-<h1 align="center">
-  <img src="https://cdn-icons-png.flaticon.com/512/2702/2702602.png" width="30"/>  
+<h1 align="center">  
   Inteligência Artificial e Visão Computacional em Imagens Médicas
 </h1>
 
-<h3 align="center">👩‍⚕️ Projeto de visão computacional aplicada à saúde, com foco na análise automática de imagens médicas, utilizando inteligencia artificial para apoiar diagnósticos clínicos.
+<h3 align="center"><img src="https://cdn-icons-png.flaticon.com/512/2702/2702602.png" width="30"/>👩‍⚕️ Projeto de visão computacional aplicada à saúde, com foco na análise automática de imagens médicas, utilizando inteligencia artificial para apoiar diagnósticos clínicos.
 </h3>
 🧠 🩺 📊 📁 💻 🔍 ✅ ❌ ⚙️ 🛠️ 📦 ✨ 👩‍⚕️
 
