@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img align="left" src="https://cdn-icons-png.flaticon.com/512/2702/2702602.png" width="30"/>  
+  <img src="https://cdn-icons-png.flaticon.com/512/2702/2702602.png" width="30"/>  
   Inteligência Artificial e Visão Computacional em Imagens Médicas
 </h1>
 
