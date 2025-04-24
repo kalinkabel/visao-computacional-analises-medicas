@@ -38,7 +38,7 @@ Este projeto tem como objetivo aplicar técnicas avançadas de visão computacio
 
 - Streamlit (para visualização interativa, opcional)
 
-<h3 align="left"><img src="https://github.com/user-attachments/assets/6e6997b7-e2fc-4d9a-8f0f-fae2d77214b5" width="30" alt="IA Icon" /> Contribuições</h3>
+<h3 align="left"><img src="https://github.com/user-attachments/assets/6e6997b7-e2fc-4d9a-8f0f-fae2d77214b5" width="20" alt="IA Icon" /> Contribuições</h3>
 
 Contribuições são muito bem-vindas!Sinta-se à vontade para abrir issues ou enviar pull requests.
 
