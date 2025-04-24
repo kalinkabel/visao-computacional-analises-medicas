@@ -37,3 +37,8 @@ Este projeto tem como objetivo aplicar técnicas avançadas de visão computacio
 - Matplotlib / Seaborn
 
 - Streamlit (para visualização interativa, opcional)
+
+<h3 align="left">Contribuições</h3>
+
+<img src="https://github.com/user-attachments/assets/6e6997b7-e2fc-4d9a-8f0f-fae2d77214b5" width="30" alt="IA Icon" />Contribuições são muito bem-vindas!Sinta-se à vontade para abrir issues ou enviar pull requests.
+
