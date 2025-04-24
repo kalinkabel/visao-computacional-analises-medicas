@@ -13,6 +13,7 @@
 Este projeto tem como foco a aplicação de técnicas de visão computacional e inteligência artificial para análise de imagens médicas. Ele explora métodos de pré-processamento, extração de características, classificação, detecção e segmentação para a construção de modelos de inteligência artificial voltados à avaliação e apoio de diagnósticos clínicos automatizados.
 
 <h3 align="left">🔍 Objetivos</h3>
+
 - Demonstrar como imagens médicas podem ser processadas digitalmente.
 
 - Aplicar técnicas modernas de visão computacional para análise automática.
