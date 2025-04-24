@@ -1,4 +1,6 @@
-
+<h1 align="center"> Análise de Imagens Médicas com Visão Computacional </h1>
+<h3 align="center">Projeto de visão computacional aplicada à saúde, com foco na análise automática de imagens médicas, utilizando inteligência artificial para apoiar diagnósticos clínicos.
+</h3>
 
 As tecnologias de imagem médica estão cada vez mais integradas aos sistemas de visão computacional, especialmente no uso de imagens de raio-X.
 
