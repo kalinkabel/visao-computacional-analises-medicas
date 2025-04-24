@@ -21,3 +21,19 @@ Este projeto tem como foco a aplicação de técnicas de visão computacional e 
 - Utilizar redes neurais e outros modelos de deep learning para diagnóstico assistido.
 
 - Promover uma abordagem interpretável e confiável para auxiliar profissionais da saúde.
+
+<h3 align="left">🛠️ Tecnologias Utilizadas</h3>
+
+- Python 3.10+
+
+- OpenCV
+
+- NumPy / Pandas
+
+- Scikit-learn
+
+- TensorFlow / Keras ou PyTorch
+
+- Matplotlib / Seaborn
+
+- Streamlit (para visualização interativa, opcional)
