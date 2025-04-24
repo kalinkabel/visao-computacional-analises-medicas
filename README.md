@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="[https://cdn-icons-png.flaticon.com/512/2702/2702602.png](https://github.com/user-attachments/assets/6e389ffe-d221-405c-8e46-919f1d3cc410)" width="50" alt="IA Icon" />
+  <img src="https://github.com/user-attachments/assets/6e389ffe-d221-405c-8e46-919f1d3cc410" width="50" alt="IA Icon" />
 </p>
 
 <h1 align="center">Inteligência Artificial e Visão Computacional em Imagens Médicas</h1>
